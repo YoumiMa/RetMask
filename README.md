@@ -1,6 +1,6 @@
 # RetMask
 
-Source code for the paper **"From Interpretability to Performance: Optimizing Retrieval Heads for Long-Context Language Models"** (ACL 2026 Findings).
+Source code for the paper [**"From Interpretability to Performance: Optimizing Retrieval Heads for Long-Context Language Models"**](https://arxiv.org/abs/2601.11020) (ACL 2026 Findings).
 
 ## Trained Checkpoints
 
